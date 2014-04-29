@@ -1,0 +1,1 @@
+directly running download.bat to retrieve topcoder dependences.
